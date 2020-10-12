@@ -1,1 +1,2 @@
-Electric guitars have 6 strings.
+Electric guitars have 6 strings. 
+They are tuned to EADGBE.
